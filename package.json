@@ -1,0 +1,11 @@
+{
+  "name": "codetchat",
+  "version": "1.0.0",
+  "description": "Mini réseau social fait avec nodejs et réact",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marvycode",
+  "license": "ISC"
+}
